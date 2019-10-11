@@ -1,26 +1,25 @@
 fileFormatVersion: 2
-guid: 46a37085c77b4c54fb4349284f2cdf5b
+guid: bd2011705d66ced45ac6e6f646dbcd31
 TextureImporter:
   fileIDToRecycleName:
-    21300000: 2x_0
-    21300002: 2x_1
-    21300004: 2x_2
-    21300006: 2x_3
-    21300008: 2x_4
-    21300010: 2x_5
-    21300012: 2x_6
-    21300014: 2x_7
-    21300016: 2x_8
-    21300018: 2x_9
-    21300020: 2x_10
-    21300022: 2x_11
-    21300024: 2x_12
-    21300026: 2x_13
-    21300028: 2x_14
-    21300030: 2x_15
-    21300032: 2x_16
-    21300034: 2x_17
-    21300036: 2x_18
+    21300000: 2x - Green_0
+    21300002: 2x - Green_1
+    21300004: 2x - Green_2
+    21300006: 2x - Green_3
+    21300008: 2x - Green_4
+    21300010: 2x - Green_5
+    21300012: 2x - Green_6
+    21300014: 2x - Green_7
+    21300016: 2x - Green_8
+    21300018: 2x - Green_9
+    21300020: 2x - Green_10
+    21300022: 2x - Green_11
+    21300024: 2x - Green_12
+    21300026: 2x - Green_13
+    21300028: 2x - Green_14
+    21300030: 2x - Green_15
+    21300032: 2x - Green_16
+    21300034: 2x - Green_17
   externalObjects: {}
   serializedVersion: 9
   mipmaps:
@@ -114,7 +113,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: 2x_0
+      name: 2x - Green_0
       rect:
         serializedVersion: 2
         x: 122
@@ -128,13 +127,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: aa4992331d72f1f4ca91d7a7e4d90dba
+      spriteID: f75df10ddb978784a96f0d4eba1da9e9
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 2x_1
+      name: 2x - Green_1
       rect:
         serializedVersion: 2
         x: 293
@@ -148,13 +147,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7ef6af07501d40f409ee232350e48b90
+      spriteID: 5ee452a566d701e43b5d609eb75f06d8
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 2x_2
+      name: 2x - Green_2
       rect:
         serializedVersion: 2
         x: 463
@@ -168,13 +167,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 49e4ac6f305f1664497135decd3022c9
+      spriteID: 19bb3f50b603c004f80a01c50378500c
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 2x_3
+      name: 2x - Green_3
       rect:
         serializedVersion: 2
         x: 633
@@ -188,13 +187,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8b2c91497fc3b4745b56d561943f3bc7
+      spriteID: fd78764a67444d4429cc44ce128283be
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 2x_4
+      name: 2x - Green_4
       rect:
         serializedVersion: 2
         x: 803
@@ -208,13 +207,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3e71688200aae3645bf91434d6899722
+      spriteID: 8e11ce6919d65ec40969d6386bb51612
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 2x_5
+      name: 2x - Green_5
       rect:
         serializedVersion: 2
         x: 972
@@ -228,13 +227,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2ddc6ddbd14b8b94fa525a847088c84d
+      spriteID: 953e46a332bce7041833aebcafab1c87
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 2x_6
+      name: 2x - Green_6
       rect:
         serializedVersion: 2
         x: 1142
@@ -248,13 +247,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c76869cc9b2989d438e220d07c5b4187
+      spriteID: b1ef9926bd85d944080c5c51e99d94c3
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 2x_7
+      name: 2x - Green_7
       rect:
         serializedVersion: 2
         x: 1315
@@ -268,13 +267,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 89435dac28f0ace40b422fecf7f74a04
+      spriteID: 7ab99ce975bbbc54dbc0d4bbb49a11a4
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 2x_8
+      name: 2x - Green_8
       rect:
         serializedVersion: 2
         x: 1516
@@ -288,13 +287,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4ef34155ed39e1e499c8f45542bf958d
+      spriteID: 9a56f7dbae2b23c4f8b2cdc47e217d67
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 2x_9
+      name: 2x - Green_9
       rect:
         serializedVersion: 2
         x: 1732
@@ -308,13 +307,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 004382ccc7403304498aaf0fa626ade0
+      spriteID: 7a26ce8f2c026064e963ad777e66aa6e
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 2x_10
+      name: 2x - Green_10
       rect:
         serializedVersion: 2
         x: 249
@@ -328,13 +327,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bd734954a2136ac4a9559a84fa1293ec
+      spriteID: ccfd2af1b16838a44b6ca6561e6888cc
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 2x_11
+      name: 2x - Green_11
       rect:
         serializedVersion: 2
         x: 486
@@ -348,13 +347,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9a37068ed7574c846b4bdebdb7b633cc
+      spriteID: ffbab72bf218150438c4d7188f2ec58d
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 2x_12
+      name: 2x - Green_12
       rect:
         serializedVersion: 2
         x: 717
@@ -368,13 +367,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b4cf810f32bc77947a6f7f10255af3da
+      spriteID: d80d994feaae7aa4180c03ad1f5d6887
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 2x_13
+      name: 2x - Green_13
       rect:
         serializedVersion: 2
         x: 932
@@ -388,13 +387,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7629497e23f88db4fb918405145b57c7
+      spriteID: 8b72fd82cb8ed474e813254f1a923106
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 2x_14
+      name: 2x - Green_14
       rect:
         serializedVersion: 2
         x: 1129
@@ -408,13 +407,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dbbe019bd6390ba4d8c3e506df8fde84
+      spriteID: 07cc134eb2e31664d929773ae07bbc28
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 2x_15
+      name: 2x - Green_15
       rect:
         serializedVersion: 2
         x: 1301
@@ -428,13 +427,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7e0be94c31649694a802cb6e4f2bf105
+      spriteID: eaeb027cd7024cd4cb143e6cebe9567d
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 2x_16
+      name: 2x - Green_16
       rect:
         serializedVersion: 2
         x: 1471
@@ -448,13 +447,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b8e3bd0dc1b9c654ba378bd86458c6a2
+      spriteID: 9045e310187862046b7e275aa61c3265
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: 2x_17
+      name: 2x - Green_17
       rect:
         serializedVersion: 2
         x: 1640
@@ -468,7 +467,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8b2427196e9b2e74a93681d047235163
+      spriteID: 2fabdf4eab432194aa2073a46ce2e95d
       vertices: []
       indices: 
       edges: []
@@ -476,7 +475,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 925780cb704a5db4291618cc0e33aee5
+    spriteID: 0459ea3b7452ce347a09be7b4452d43d
     vertices: []
     indices: 
     edges: []
