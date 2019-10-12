@@ -295,7 +295,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 88105423}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -4.53, y: 0.9, z: 0}
+  m_LocalPosition: {x: -5.82, y: 0.9, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1248881583}
@@ -6610,12 +6610,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Prefabs:
-  - {fileID: 4765715093020395943, guid: 3213dc945a4dd4840bd99e5cde2229ad, type: 3}
-  - {fileID: 9022655414624480919, guid: fb332aef54a35894295b9daa9734dc99, type: 3}
-  - {fileID: 6469289599075130554, guid: 747c022ad0b1f8441a52937aaa148493, type: 3}
   - {fileID: 4963653461129636440, guid: 9b12317e0328340449f5c27933640a9e, type: 3}
+  - {fileID: 9022655414624480919, guid: fb332aef54a35894295b9daa9734dc99, type: 3}
+  - {fileID: 4765715093020395943, guid: 3213dc945a4dd4840bd99e5cde2229ad, type: 3}
   - {fileID: 1036200511387693754, guid: 062fccb50ded7d24db3bd96ef29b79c7, type: 3}
+  - {fileID: 6469289599075130554, guid: 747c022ad0b1f8441a52937aaa148493, type: 3}
   EntityCounter: {fileID: 1262121730}
+  SpawnsPerClick: 100
 --- !u!1 &1828803204
 GameObject:
   m_ObjectHideFlags: 0

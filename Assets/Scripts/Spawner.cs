@@ -7,6 +7,7 @@ public class Spawner : MonoBehaviour
 {
     public GameObject[] Prefabs;
     public Text EntityCounter;
+    public int SpawnsPerClick = 100;
 
     private int EntityCount;
 
@@ -21,7 +22,7 @@ public class Spawner : MonoBehaviour
     {
         if(Input.GetMouseButtonDown(0))
         {
-            for (int i = 0; i < 100; i++)
+            for (int i = 0; i < SpawnsPerClick; i++)
             {
                 Spawn(Prefabs[Random.Range(0, Prefabs.Length)], Camera.main.ScreenToWorldPoint(Input.mousePosition));
                 EntityCounter.text = "Entities: " + EntityCount;
